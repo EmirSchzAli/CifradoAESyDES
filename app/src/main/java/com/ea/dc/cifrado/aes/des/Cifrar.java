@@ -241,6 +241,5 @@ public class Cifrar extends AppCompatActivity {
         }
         return super.dispatchTouchEvent( event );
     }
-    
-    
+
 }
